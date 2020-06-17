@@ -1,4 +1,4 @@
-module go.uber.org/dig
+module github.com/uber-go/dig
 
 go 1.13
 
